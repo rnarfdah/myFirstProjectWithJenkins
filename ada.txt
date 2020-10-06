@@ -1,1 +1,2 @@
 ini file coba coba
+buat belajar jenkins
